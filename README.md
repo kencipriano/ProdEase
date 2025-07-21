@@ -1,4 +1,4 @@
 # ProdEase
 
-Startup command for ProdEase AI
-`sudo -kenneth -jaypee -felix -ailene --start ProdEase`
+Startup command for ProdEaseAI
+kenneth -jaypee -felix -ailene --start ProdEase
