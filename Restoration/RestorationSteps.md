@@ -1,7 +1,7 @@
 # Incident Scenario – ProdEase AI Application
 
-**Incident Title:**
-- ProdEase AI Application Unavailable Due to Database Connectivity Failure
+### Incident Title:
+ProdEase AI Application Unavailable Due to Database Connectivity Failure
 
 **Date/Time:**
 - August 25, 2025 – 10:15 AM (GMT+8)
