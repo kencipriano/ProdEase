@@ -32,16 +32,16 @@ At 2:40 PM, multiple users reported slow response times (20–30 seconds delay) 
     - Queue backlog growing due to retry attempts.
 
 ## Restoration Steps
-### 1. Containment:
+**1. Containment:**
     - Disabled automatic retries on failing API calls to prevent further backlog.
     - Updated incident channel with ongoing issue details.
-### 2. Mitigation:
+**2. Mitigation:**
     - Applied circuit breaker configuration in API Gateway to route failed third-party calls to a fallback cache mechanism.
     - Activated cached responses for commonly accessed AI models to keep dashboards functional.
-### 3. Validation:
+**3. Validation:**
     - Re-tested dashboard performance → average response time dropped back to 2–3 seconds.
     - Confirmed no new timeouts observed in logs.
-### 4. Resolution:
+**4. Resolution:**
     - Full functionality restored at 3:25 PM (45 minutes partial service degradation).
     - Business users confirmed improved response times.
 
