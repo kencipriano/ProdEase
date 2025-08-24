@@ -12,10 +12,18 @@ ProdEase AI is an intelligent assistant specifically designed to support busines
 ```bash
 kenneth -jaypee -felix -ailene --start ProdEase
 ```
+or
+```bash
+systemctl start prodease-ai.service
+```
 
 ### Stopping ProdEase AI
 ```bash
 kenneth -jaypee -felix -ailene --stop ProdEase
+```
+or
+```bash
+systemctl stop prodease-ai.service
 ```
 
 ## Features and Capabilities
