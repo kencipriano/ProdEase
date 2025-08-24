@@ -54,7 +54,8 @@ ProdEase AI assists business operations teams in various ways:
 - Enhanced decision-making capabilities
 - Streamlined business processes
 - Support
-[Note: Support contact information would need to be provided]
+> [!NOTE]
+> Support contact information would need to be provided
 
 ### Security Considerations
 - Follow organizational security policies
@@ -62,6 +63,7 @@ ProdEase AI assists business operations teams in various ways:
 - Regularly update security protocols
 - Protect sensitive business data
 - Updates and Maintenance
-[Note: Specific update and maintenance procedures would need to be provided]
+> [!NOTE]
+> Specific update and maintenance procedures would need to be provided
 
 This documentation provides a basic framework and can be expanded based on specific features, requirements, and organizational needs. Regular updates to this documentation are recommended as new features are added or processes are modified.
